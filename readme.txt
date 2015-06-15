@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 branch merge test.
 branch merge test2.
+stash test
